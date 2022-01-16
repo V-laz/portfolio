@@ -313,6 +313,72 @@ hr {
   height: 130px; 
   margin:295px 660px
 }
+/* Price */
+.price_rate {
+    width: 1440px;
+    height:505px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.rate {
+    width: 450px;
+    height: 505px;
+    border:solid 2px #BDAE82;
+    text-align: center; 
+}
+h4 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 56px;
+    text-align: center;
+    color: #FFFFFF;
+}
+h5 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 48px;
+    text-align: center;
+    color: #BDAE82; 
+}
+.price_list {
+    width: 364px;
+    height: 180px;
+
+}
+.price_item {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+    list-style: none;
+
+}
+.price_button {
+    width: 220px;
+    height: 55px;
+    background-color:#BDAE82;
+    
+}
+.portfolio_button {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
+    margin:auto;
+}
+
 
 
 
