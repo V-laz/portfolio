@@ -1,2 +1,2 @@
 # portfolio
-## https://rolling-scopes-school.github.io/portfolio/proect_portfolio
+## https://rolling-scopes-school.github.io/v-laz-JSFEPRESCHOOL/proect_portfolio

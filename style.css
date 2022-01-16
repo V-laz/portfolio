@@ -150,6 +150,14 @@
 }
 .hero {
     background-color:#BDAE82;
+    margin-top: 5px;;
+    font-family:'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
 
 }
 .hero,
@@ -160,16 +168,6 @@
    
 }
 
-.text_button {
-    margin-top: 5px;;
-    font-family:'Inter', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 20px;
-    line-height: 40px;
-    text-align: center;
-    color: #000000;
-}
   /*skills*/
 
 #skills {
